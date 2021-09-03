@@ -19,7 +19,7 @@ Dataset:name:npod Aab+	/uod/idr/filesets/idr0116-deboer-npod/20210805-Globus/Fro
 Dataset:name:npod Aab+	/uod/idr/filesets/idr0116-deboer-npod/20210805-Globus/6158-265b.ome.tiff	6158-2016-265b.ome.tiff
 Dataset:name:npod control	/uod/idr/filesets/idr0116-deboer-npod/20210805-Globus/6160-266b.ome.tiff	6160-2016-266b.ome.tiff
 Dataset:name:npod Aab+	/uod/idr/filesets/idr0116-deboer-npod/20210805-Globus/From Tiff source/6197-265a.ome.tiff	6197-2012-265a.ome.tiff
-Dataset:name:T1D		6198-2012-263a1.ome.tiff
+Dataset:name:T1D	/uod/idr/filesets/idr0116-deboer-npod/20210902-ftp/6198-2012-263a1.ome.tiff	6198-2012-263a1.ome.tiff
 Dataset:name:T1D	/uod/idr/filesets/idr0116-deboer-npod/20210805-Globus/6198b-263b.ome.tiff	6198-2012-263b.ome.tiff
 Dataset:name:T1D	/uod/idr/filesets/idr0116-deboer-npod/20210805-Globus/From Tiff source/6204a-374a1.ome.tiff	6204-2012-374a1.ome.tiff
 Dataset:name:T1D	/uod/idr/filesets/idr0116-deboer-npod/20210805-Globus/6204-211b.ome.tiff	6204-2016-211b.ome.tiff
