@@ -6,7 +6,7 @@
 | Task | Duration |
 | :----: |:----:|
 | Images| 2h |
-| Annotations | -- |
+| Annotations | a few min |
 
 ### idr-next
 | Task | Done |
