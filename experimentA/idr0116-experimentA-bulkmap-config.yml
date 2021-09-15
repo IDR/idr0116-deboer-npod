@@ -19,12 +19,36 @@ columns:
     clientname: Description
     include: yes
 
-  - name: Comment [Image Original Pixel Size]
-    clientname: Image Original Pixel Size
+  - name: Characteristics [Diagnosis]
+    clientname: Diagnosis
     include: yes
 
-  - name: Comment [External URL]
-    clientname: External URL
+  - name: Characteristics [Sex]
+    clientname: Sex
+    include: yes
+
+  - name: Characteristics [Age]
+    clientname: Age
+    include: yes
+
+  - name: Characteristics [Ethnic or Racial Group]
+    clientname: Ethnic or Racial Group
+    include: yes
+
+  - name: Comment [nPOD ID]
+    clientname: nPOD ID
+    include: yes
+
+  - name: Comment [BioSample ID]
+    clientname: BioSample ID
+    include: yes
+
+  - name: Comment [BioSample URL]
+    clientname: BioSample URL
+    include: yes
+
+  - name: Comment [Nanotomy URL]
+    clientname: Nanotomy URL
     include: yes
 
 
