@@ -1,0 +1,180 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.	
+# STUDY DESCRIPTION SECTION				
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details	
+			
+				
+Comment[IDR Study Accession]	idr0116		
+
+Study Title	Large-Scale electron microscopy database for human type 1 diabetes
+	
+Study Type	electron microscopy volume map	
+
+Study Type Term Source REF	EFO			
+
+Study Type Term Accession	
+			
+Study Description	Autoimmune β-cell destruction leads to type 1 diabetes, but the pathophysiological mechanisms remain unclear. To help address this void, we created an open-access online repository composed of large-scale electron microscopy images (‘nanotomy’) of human pancreas tissue obtained from the Network for Pancreatic Organ donors with Diabetes (nPOD; www.nanotomy.org). Nanotomy allows analyses of complete donor islets with up to macromolecular resolution. Our first results of mining the database support recent findings that suggest that type 1 diabetes includes abnormalities in the exocrine pancreas that may induce endocrine cellular stress as a trigger for autoimmunity.
+
+Study Key Words	Electron microscopy	nanotomy	Islets of Langerhans	Type 1 diabetes		
+
+Study Organism	Homo sapiens	
+
+Study Organism Term Source REF	NCBITaxon
+		
+Study Organism Term Accession	9606	
+		
+Study Experiments Number	1	
+		
+Study External URL	http://www.nanotomy.org/OA/nPOD/	
+
+Study EMPIAR Accession
+	
+Study Public Release Date		
+
+				
+# Study Publication	
+			
+Study PubMed ID	32424134	
+	
+Study Publication Title	Large-scale electron microscopy database for human type 1 diabetes		
+Study Author List	de Boer P, Pirozzi NM, Wolters AHG, Kuipers J, Kusmartseva I, Atkinson MA, Campbell-Thompson M, Giepmans BNG
+		
+Study PMC ID	PMC7235089 	
+		
+Study DOI	https://doi.org/10.1038/s41467-020-16287-5	
+		
+				
+# Study Contacts	
+			
+Study Person Last Name	Giepmans 
+		
+Study Person First Name	Ben		
+	
+Study Person Email	b.n.g.giepmans@umcg.nl	
+		
+Study Person Address	Deusinglaan 1, BSCS, UMC Groningen, Netherlands
+		
+Study Person ORCID	0000-0001-5105-5915	
+	
+Study Person Roles	submitter	
+	
+				
+# Study License and Data DOI	
+			
+Study License	CC BY 4.0	
+	
+Study License URL	https://creativecommons.org/licenses/by/4.0/	
+	
+Study Copyright	de Boer et al		
+
+Study Data Publisher	University of Dundee	
+	
+Study Data DOI			
+				
+Term Source Name	NCBITaxon	NCBITaxon	CMPO	FBbi
+Term Source URI	http://purl.obolibrary.org/obo/	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/
+				
+				
+# EXPERIMENT SECTION				
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment				
+				
+Experiment Number	1	
+
+Comment[IDR Experiment Name]	idr0116-deboer-npod/experimentA	
+
+Experiment Sample Type	tissue
+		
+Experiment Description	Scanning transmission electron microscopy of Islets of Langerhans.  
+			
+Experiment Size	5D Images:	5D Images:	Total Tb: 	
+
+Experiment Example Images	
+		
+Experiment Imaging Method	scanning-transmission electron microscopy	
+		
+Experiment Imaging Method Term Source REF	Fbbi	
+		
+Experiment Imaging Method Term Accession	FBbi_00000380	
+
+Experiment Organism	
+	
+Experiment Organism Term Source REF	NCBITaxon	
+		
+Experiment Organism Term Accession	
+		
+Experiment Comments	
+		
+				
+# assay files		
+		
+Experiment Assay File	idr0116-experimentA-annotation		
+	
+Experiment Assay File Format	tab-delimited text
+		
+Assay Experimental Conditions		
+	
+Assay Experimental Conditions Term Source REF	
+		
+Assay Experimental Conditions Term Accession	
+	
+Quality Control Description	
+
+				
+# Protocols		
+		
+Protocol Name	growth protocol	growth protocol	image acquisition and feature extraction protocol	data analysis protocol
+
+Protocol Type	growth protocol	growth protocol	image acquisition and feature extraction protocol	data analysis protocol
+
+Protocol Type Term Source REF	EFO	EFO	
+	
+Protocol Type Term Accession	EFO_0003789	EFO_0003789		
+
+Protocol Description	
+
+				
+# Phenotypes		
+		
+Phenotype Name	
+		
+Phenotype Description	
+		
+Phenotype Score Type	
+			
+Phenotype Term Source REF	CMPO	
+	
+Phenotype Term Name	
+		
+Phenotype Term Accession		 	
+				
+				
+# Feature Level Data Files (give individual file details unless there is one file per well)	
+			
+Feature Level Data File Name	
+		
+Feature Level Data File Format	
+	
+Feature Level Data File Description	
+		
+Feature Level Data Column Name	
+		
+Feature Level Data Column Description	
+		
+				
+#  Processed Data Files 		
+		
+Processed Data File Name	
+		
+Processed Data File Format	
+		
+Processed Data File Description	
+
+Processed Data Column Name	
+	
+Processed Data Column Type	
+
+Processed Data Column Annotation Level	
+		
+Processed Data Column Description	
+		
+Processed Data Column Link To Assay File	
