@@ -27,7 +27,7 @@ Study Experiments Number	1
 		
 Study External URL	http://www.nanotomy.org/OA/nPOD/	
 
-Study EMPIAR Accession
+Study BioImage Archive Accession
 	
 Study Public Release Date	2021-09-21		
 
@@ -69,7 +69,7 @@ Study Copyright	de Boer et al
 
 Study Data Publisher	University of Dundee	
 	
-Study Data DOI			
+Study Data DOI	https://doi.org/10.17867/10000168				
 				
 Term Source Name	NCBITaxon	NCBITaxon	CMPO	FBbi
 Term Source URI	http://purl.obolibrary.org/obo/	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/
